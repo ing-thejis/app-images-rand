@@ -1,0 +1,49 @@
+.container{
+	padding: 0;
+	margin: 0;
+} 
+
+.container-pie {
+	background-color: MediumSeaGreen;
+	color: white;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	padding: 20px;
+}
+
+.App {
+	margin: 30px auto;
+	padding: 20px;
+	width: 50%;
+}
+
+.searchBar {
+	border-radius: 40px;
+}
+
+img {
+	width: 50%;
+	margin-left: 25%;
+}
+
+/* icon inside text box search */
+.search {
+	position: relative;
+}
+
+.search > .icon {
+	position: absolute;
+	top: 5px;
+	left: 10px;
+}
+
+.search > .searchBar {
+	padding-left: 30px;
+}
+/*----------------------------*/
+
+Button {
+	width: 100%;
+}
