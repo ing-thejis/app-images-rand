@@ -49,8 +49,3 @@ Button {
 	width: 100%;
 }
 
-Link:link, Link: visited {
-	text-align: center;
-	text-decoration: none;
-	color: white;
-}
