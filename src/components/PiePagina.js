@@ -7,9 +7,8 @@ function PiePagina(){
 		<div className="container-pie">
 		 	<h5><b>T h e J i s</b> &copy;
 		 	<BrowserRouter> 
-		 	<Link to="https://github.com"><FaGithub /></Link>
-		 	<Link to="https://facebook.com"><FaFacebook /></Link> 
-		 	<Link to="https://twitter.com"><FaTwitter /></Link> 
+		 	<Link to="https://github.com/ing-thejis"><FaGithub /></Link>
+		 	<Link to="https://twitter.com/ingGarc1a"><FaTwitter /></Link> 
 		 	<Link to="https://www.linkedin.com/in/jesith-garc%C3%ADa-ing15/"><FaLinkedin /></Link>
 		 	</BrowserRouter>
 		 	</h5>
